@@ -23,8 +23,18 @@ div#header {
 
 }
 
+.logo {
+	float:left
+	margin-top:0px;
+}
+
 .logo a {
 	
 	font-size: 1.6em;
+	color: #fff;
+}
+
+.logo a span {
+	font-weight:300;
 }
 
