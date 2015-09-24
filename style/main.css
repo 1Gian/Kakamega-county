@@ -65,9 +65,14 @@ ul#nav {
 }	
 
 ul#nav li {
-	
+	list-style: none;
 }	
 
 ul#nav li a {
 	
+      color: #fff;
+      display:block;
+      padding: 12px;
+      font-size: 0.8em;
 }
+
