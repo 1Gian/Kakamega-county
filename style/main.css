@@ -38,3 +38,9 @@ div#header {
 	font-weight:300;
 }
 
+div#container {
+	
+	width: 100%;
+	margin: 0, auto;
+	
+}
