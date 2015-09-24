@@ -74,7 +74,20 @@ a{
 }
 ----------------------------
 
+div#topbar
+img {
+    border: 0;
+}
 
+
+div#topbar{
+    width: 150px;
+    height: 108px;
+    display: block;
+  
+    position: absolute;
+    background: url(../images/logo.png) no-repeat;
+}
 
 a {
 	text-decoration: none;
